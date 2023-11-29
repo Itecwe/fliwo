@@ -97,12 +97,15 @@ ul li ul li:before {
 }
 
 .sale__container {
+    min-width: 100%;
     margin-bottom: 0;
     padding: 1rem;
+    background-color: #07c085;
+    color: #fff;
 }
 
 .sale__text {
-    color: rgb(0, 255, 0);
+    color: #fff;
 }
 
 .tittle__container {
@@ -131,4 +134,9 @@ ul li ul li:before {
 
 .info__container {
     margin-bottom: 0;
+}
+
+.release__word {
+    color: #07c085;
+    font-weight: bold;
 }
