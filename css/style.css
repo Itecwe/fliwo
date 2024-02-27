@@ -23,7 +23,8 @@ body {
     font-size: 2.4rem;
     line-height: normal;
     color: #e9e9e9;
-    background-image: linear-gradient(to bottom, #051937, #0c1637, #141136, #1c0c34, #230430);
+    background: linear-gradient(rgba(5,7,12,.80), rgba(5,7,12,.80)), url(../img/wolrd-bg-1080x720.jpg) no-repeat center;
+    background-size: cover;
 }
 
 .main {
