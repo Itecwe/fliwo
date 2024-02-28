@@ -50,13 +50,13 @@ body {
 
 .h1 {
     color: #fffb00;
-    font-weight: normal;
-    font-size: 2.2rem;
+    font-weight: bold;
+    font-size: 2.8rem;
     letter-spacing: 0.2rem;
 }
 
 .h2 {
-    color: #47acff;
+    color: #9fd4ff;
     font-family: 'gaban';
     font-size: 5rem;
     display: block;
@@ -65,7 +65,7 @@ body {
 
 .slogan {
     font-family: 'Montserrat';
-    font-size: 1.2rem;
+    font-size: 1.8rem;
 }
 
 ul {
@@ -140,4 +140,14 @@ ul li ul li:before {
 .release__word {
     color: #07c085;
     font-weight: bold;
+}
+
+.email__link {
+    color:         #fffb00;
+    font:          normal normal 16px/1;
+    text-align:    center;
+}
+
+.email__link:hover {
+    background-color: #ffffff;
 }
